@@ -19,6 +19,8 @@ Grant location access to the app.
 The app will automatically fetch weather data for the user's current location.
 The UI will display the maximum temperature, minimum temperature, humidity, and wind speed for the selected city.
 
+![Ekran Resmi 2023-05-30 11 38 11](https://github.com/SeydaBalci/WeatherUIAppFromAPI/assets/62032918/d4ae820c-75fa-4c48-999e-f872ada729b9)
+
 **Notes**
 
 The weather app was developed as part of a coding challenge.
